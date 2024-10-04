@@ -171,5 +171,13 @@ it will download connection file with report access
 
 in case if you dont have Power BI desktop, down load it and open the file
 
+While opening report, it will prompt to provide credentials
 
+![image](https://github.com/user-attachments/assets/8567272c-dcc0-45d7-af1d-1218f3196a51)
+
+![image](https://github.com/user-attachments/assets/d868054b-0705-493f-a7f6-8bff8aa798e5)
+
+![image](https://github.com/user-attachments/assets/cda11ea0-05ab-43c7-82bb-30d06eaf9576)
+
+Got some technical issue with loading table in Power BI
 
