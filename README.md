@@ -156,3 +156,4 @@ After adding few more data from event hub, got below result
 ![image](https://github.com/user-attachments/assets/f4735834-984b-49f7-82be-c9dcca68d9e9)
 
 
+Note:- You can see one row is less in the count while showing table record, because if you notive live stream query result, one window is still not closed
