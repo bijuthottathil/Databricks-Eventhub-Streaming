@@ -154,6 +154,22 @@ After adding few more data from event hub, got below result
 ![image](https://github.com/user-attachments/assets/2c5d56a5-7aa4-4489-863a-4046bd688974)
 
 ![image](https://github.com/user-attachments/assets/f4735834-984b-49f7-82be-c9dcca68d9e9)
-
-
 Note:- You can see one row is less in the count while showing table record, because if you notive live stream query result, one window is still not closed
+
+Next we will visualize this aggregated data in Power Bi
+
+For that choose partner connect and proceed
+
+![image](https://github.com/user-attachments/assets/f0c0ed98-09c5-4084-aa8a-5e3cb7147626)
+
+![image](https://github.com/user-attachments/assets/f313e9d6-92c8-4697-a991-ca19d51a4444)
+
+![image](https://github.com/user-attachments/assets/742d5161-8249-4edd-ae1c-c0c37dfbc7af)
+
+it will download connection file with report access
+![image](https://github.com/user-attachments/assets/7b6335f0-15a0-4267-b799-0dbf9524697a)
+
+in case if you dont have Power BI desktop, down load it and open the file
+
+
+
