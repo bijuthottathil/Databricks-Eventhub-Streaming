@@ -1,5 +1,8 @@
 # Real Time Streaming with Azure Databricks and Event Hubs
 
+![image](https://github.com/user-attachments/assets/6295a238-e823-4309-a002-0c7e6e212caa)
+
+
 First step is to create Event Hub in Azure Portal
 
 ![image](https://github.com/user-attachments/assets/da37fb8c-d958-41fb-9492-17d22e42b332)
