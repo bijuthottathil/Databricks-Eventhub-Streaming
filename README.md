@@ -149,4 +149,10 @@ In next step we will create gold layer and aggregate data
 
 ![image](https://github.com/user-attachments/assets/76e87119-2f57-4bf2-9dc5-c146d26d4310)
 
+After adding few more data from event hub, got below result
+
+![image](https://github.com/user-attachments/assets/2c5d56a5-7aa4-4489-863a-4046bd688974)
+
+![image](https://github.com/user-attachments/assets/f4735834-984b-49f7-82be-c9dcca68d9e9)
+
 
